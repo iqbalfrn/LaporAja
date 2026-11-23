@@ -1,0 +1,7 @@
+## Salin berkas ini menjadi local.properties lalu isi nilainya.
+## local.properties tidak masuk ke Git (sudah ada di .gitignore).
+## Jangan pernah menaruh service_role key di berkas ini.
+## SUPABASE_ANON_KEY diisi Publishable key (Project Settings -> API Keys, format sb_publishable_...).
+sdk.dir=/path/ke/Android/Sdk
+SUPABASE_URL=https://PROYEK_ANDA.supabase.co
+SUPABASE_ANON_KEY=tempel-publishable-key-di-sini
